@@ -28,5 +28,10 @@ In your tests include
 
     import com.fortysevendeg.lambdatest._
     import com.fortysevendeg.lambdatestatiming._
-    
+
 ## Timing
+
+There are several actions that can be used to time code.
+Some are assertions that fail if the code runs too long.
+
+See the [Timing](https://github.com/47deg/LambdaTestTiming/blob/master/src/test/scala/demo/Timing.scala) demo.
