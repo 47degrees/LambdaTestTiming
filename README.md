@@ -13,7 +13,7 @@ The core API is `LambdaAct` which is a pure functional transform from one `Lambd
 next `LambdaState`. A composition of simple and compound `LambdaAct`'s is central to
 each user written test.
 LambdaTestTiming is a good example of this extensibility where without any changes 
-to the base system, it adds tining support by defining the new timing `LambdaAct`s.
+to the base system, it adds timing support by defining the new timing `LambdaAct`s.
 
 You should review the features of the base LambdaTest system before 
 reading the documentation below.
